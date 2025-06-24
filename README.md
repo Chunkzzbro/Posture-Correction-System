@@ -92,5 +92,3 @@ Most existing applications only provide static posture assessments. This system 
 
 ---
 
-## 🏗️ System Architecture
-

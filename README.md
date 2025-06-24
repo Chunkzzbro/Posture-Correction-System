@@ -28,7 +28,7 @@ Most existing applications only provide static posture assessments. This system 
 ## ⚙️ Methodology
 
 ### 1. Data Collection
-- Used the [posture_correction_v4](https://universe.roboflow.com/) dataset (~4700 images)
+- Used the [posture_correction_v4](https://universe.roboflow.com/posturecorrection/posture_correction_v4) dataset (~4700 images)
 - Labeled into:
   - “Looks Good”
   - “Sit Up Straight”
